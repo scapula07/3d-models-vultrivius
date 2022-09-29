@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skyscrapers .::RAWscan::.
+* source:	https://sketchfab.com/3d-models/skyscrapers-rawscan-158a568d06c14e388bfa34a911559c73
+* author:	Andrea Spognetta (Spogna) (https://sketchfab.com/spogna)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skyscrapers .::RAWscan::." (https://sketchfab.com/3d-models/skyscrapers-rawscan-158a568d06c14e388bfa34a911559c73) by Andrea Spognetta (Spogna) (https://sketchfab.com/spogna) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
